@@ -3,7 +3,7 @@ title: "Estelle Axton"
 type: bio
 date:
 description : "Estelle Axton Bio"
-image:
+image: images/estelleaxton.jpg
 category: ["Memphis"]
 ---
 ### Estelle Axton
